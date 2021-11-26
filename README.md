@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @epicvarun23
+- 👋 Hi, I’m @varun-bharadwaj
 - 👀 I’m currently a Freshman Studying Electrical Engineering and Computer Science
 - 🌱 I’m currently learning The structure and Interpretation of Computer Programs, Data Structures, Designing Information Devices and Systems, and Multivariable Calculus
 - 📫 Feel free to reach out to me on <a href="https://www.instagram.com/varunnb_/">Instagram</a>
